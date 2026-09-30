@@ -1,0 +1,8 @@
+Zava Customer Loyalty Data
+
+Customer Name: Joe
+Loyalty Tier: Platinum
+Black Friday Discount: 32.40%
+
+This record contains Joe's current Zava loyalty tier and the personalized
+Black Friday discount percentage applicable to his account.
